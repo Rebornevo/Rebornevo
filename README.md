@@ -28,12 +28,16 @@
 ## ⚡ SYSTEM TERMINAL PROFILE
 
 ```yaml
-System Status: "OPERATIONAL"
-Developer: "Rebornevo"
-Core Stack: "Next.js | React v19 | TypeScript | Node.js | PostgreSQL"
-Current Mode: "Building High-Performance Web Applications & Interfaces"
-Connection: "Secure (SSL/TLS Active)"
-Availability: "OPEN_FOR_COLLABORATIONS"
+┌─────────────────────────────────────────────────────────────┐
+│ REBORNEVO_OS // COMMAND CENTER                              │
+├─────────────────────────────────────────────────────────────┤
+│ SYSTEM STATUS      [ ONLINE ]                               │
+│ USER               Rebornevo                                │
+│ STACK              Next.js | React v19 | TypeScript | Node  │
+│ ACTIVE PROJECTS    Rebornevo Profile Dashboard Engine       │
+│ DEPLOY STATUS      Deployed & Verified (SSL Active)         │
+│ CURRENT FOCUS      WASM Compilation & WebGL Optimization    │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ### 🛰️ System Characteristics
@@ -174,32 +178,32 @@ jobs:
 
 <div align="left">
 
-### 🚀 **Pulse AI (Semantic LLM Gateway)**
-*   **Aesthetic:** Real-time token streaming & context vector caches.
-*   **System Metric:** `12ms Latency` &bull; `94% Cache Hits`
-*   **Build Pipeline:**
-    ```bash
-    [========================================] 100% ONLINE
-    ```
-*   **Code Directory:** [Inspect Source](https://github.com/Rebornevo) &bull; [Launch Web App](https://github.com/Rebornevo)
+### 🚀 **Rebornevo (Profile Command Center)**
+*   **Overview:** The repository powering this active developer profile. Automates contribution animations and visitor metrics.
+*   **Tech Stack:** `Markdown` &bull; `GitHub Actions` &bull; `SVG Workflows`
+*   **Status:** Active & Operational
+*   **Actions:** 
+    <a href="https://github.com/Rebornevo/Rebornevo" target="_blank">
+      <img src="https://img.shields.io/badge/INSPECT_SOURCE-000000?style=for-the-badge&logo=github&logoColor=00f0ff" alt="Inspect Source" />
+    </a>
 
-### 🚀 **Hyperion (Cloud Cluster Orchestrator)**
-*   **Aesthetic:** Dynamic load balancer autoscaling kubernetes nodes.
-*   **System Metric:** `45% AWS Service Saving` &bull; `K8s Control plane`
-*   **Build Pipeline:**
-    ```bash
-    [=======================================>] 98% MONITORING
-    ```
-*   **Code Directory:** [Inspect Source](https://github.com/Rebornevo) &bull; [Launch Web App](https://github.com/Rebornevo)
+### 🚀 **Web3 Spatial Network &mdash; [UNDER DEVELOPMENT]**
+*   **Overview:** Decentralized mesh layout representing spatial network connections. Building low-latency node overlays.
+*   **Tech Stack:** `TypeScript` &bull; `WebGL` &bull; `Rust`
+*   **Status:** R&D / Planning Phase
+*   **Actions:** 
+    <a href="https://github.com/Rebornevo" target="_blank">
+      <img src="https://img.shields.io/badge/MONITOR_REPO-000000?style=for-the-badge&logo=github&logoColor=bd00ff" alt="Monitor Repo" />
+    </a>
 
-### 🚀 **Orion 3D (WebGL Physical Canvas)**
-*   **Aesthetic:** GPU instanced modeling CAD layout builder.
-*   **System Metric:** `60 FPS Locked` &bull; `GLSL Vertex Shaders`
-*   **Build Pipeline:**
-    ```bash
-    [====================================>...] 88% PRE-CACHED
-    ```
-*   **Code Directory:** [Inspect Source](https://github.com/Rebornevo) &bull; [Launch Web App](https://github.com/Rebornevo)
+### 🚀 **Modular State Scheduler &mdash; [UNDER DEVELOPMENT]**
+*   **Overview:** Client-side state synchronization router for serverless deployment channels.
+*   **Tech Stack:** `TypeScript` &bull; `React` &bull; `WASM`
+*   **Status:** Prototyping Phase
+*   **Actions:** 
+    <a href="https://github.com/Rebornevo" target="_blank">
+      <img src="https://img.shields.io/badge/MONITOR_REPO-000000?style=for-the-badge&logo=github&logoColor=ff007a" alt="Monitor Repo" />
+    </a>
 
 </div>
 
