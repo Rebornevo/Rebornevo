@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- 1. Animated Typing Header -->
+<!-- SECTION 1: ANIMATED HERO -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=CORE_SYSTEM_INIT:+REBORNEVO;FULL+STACK+DESIGN+ENGINEER;BUILDING+HIGH-PERFORMANCE+WEB+PRODUCTS;WEBGL+AND+GPU-BOUND+ANIMATIONS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=CORE_SYSTEM_INIT:+REBORNEVO;FULL+STACK+DEVELOPER;MODERN+WEB+ENGINEER;UI/UX+FOCUSED+BUILDER" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- 2. Massive Cyberpunk Developer Banner -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A4Mzg2bncydnh2cm1hdDk0ZGF0amR3OTltNmhrNXBpaGpxY3ptYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaU22o1EF8s/giphy.gif" width="100%" alt="Developer Command Center GIF" style="border-radius: 12px; border: 1px solid rgba(0, 240, 255, 0.2); box-shadow: 0 0 25px rgba(0, 240, 255, 0.15);" />
+<!-- Animated Cyberpunk GIF Banner -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A4Mzg2bncydnh2cm1hdDk0ZGF0amR3OTltNmhrNXBpaGpxY3ptYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaU22o1EF8s/giphy.gif" width="100%" alt="Developer Command Center GIF" style="border-radius: 12px; border: 1px solid rgba(0, 240, 255, 0.25); box-shadow: 0 0 25px rgba(0, 240, 255, 0.15);" />
 
 <br/><br/>
 
@@ -24,35 +24,28 @@
 
 ---
 
-## ⚡ 3. System Bios & Command Console
+<!-- SECTION 2: DEVELOPER TERMINAL -->
+## ⚡ SYSTEM TERMINAL PROFILE
 
 ```bash
-rebornevo@terminal:~$ systemctl status rebornevo-dev-core.service
-● rebornevo-dev-core.service - Core Developer Pipeline daemon
-   Loaded: loaded (/etc/systemd/system/rebornevo-dev-core.service; enabled)
-   Active: active (running) since Fri 2026-06-19; 12ms ago
-   Main PID: 2482 (next-compiler-thread)
-   Tasks: 18 (limit: 4915)
-   CGroup: /system.slice/rebornevo-dev-core.service
-           ├─2482 node /usr/bin/next start --port 3000
-           └─2495 rust-wasm-parser
-           
-[SYS_OK] Initializing interactive components... (Done)
-[SYS_OK] Mounting WebGL particle galaxy shaders... (60 FPS Locked)
-[SYS_OK] Syncing GitHub API contribution matrices... (Rebornevo stats mapped)
-[INFO]   Active endpoint: https://github.com/Rebornevo
++---------------------------------------------------------------+
+| SYSTEM STATUS: ONLINE                                         |
+|                                                               |
+| CONTRIBUTOR: Rebornevo                                        |
+| ROLE: Full Stack Developer / Systems Designer                 |
+| TARGET: High-performance interfaces & modular API structures  |
+| LOCATION: Distributed Node Gateway                            |
+| STATUS: AVAILABLE_FOR_PROJECTS                                |
++---------------------------------------------------------------+
 ```
 
 ### 🛰️ System Characteristics
-I am **Rebornevo**, a Full Stack Design Engineer building highly interactive interfaces, procedural graphics libraries, and optimized server configurations. I focus on bridging aesthetic animation design systems with low-latency backend architectures.
-
-* 💻 **Primary Pipeline:** Building layouts with Next.js, React v19, and Tailwind CSS.
-* 🚀 **GPU & Vector Engineering:** Optimizing Three.js vertex buffers, GLSL shaders, and matrix transformations.
-* 🛡️ **Distributed Core:** Constructing API gateways with Node.js, GraphQL, PostgreSQL, and Docker runtimes.
+I am **Rebornevo**, a Full Stack Web Developer building low-latency, modular web systems. I bridge the gap between complex interactive animations (GSAP, Framer Motion, Three.js) and robust database performance (Next.js, Node.js, PostgreSQL).
 
 ---
 
-## 🤝 4. Encrypted Channels (Socials)
+<!-- SECTION 3: SOCIAL COMMAND CENTER -->
+## 🤝 ENCRYPTED SOCIAL CHANNELS
 
 <div align="center">
 
@@ -79,25 +72,31 @@ I am **Rebornevo**, a Full Stack Design Engineer building highly interactive int
 
 ---
 
-## 🛠️ 5. Technology Stack & Core Engines
+<!-- SECTION 4: TECH ARSENAL -->
+## 🛠️ TECH ARSENAL (LANGUAGES & FRAMEWORKS)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,tailwind,git,github,vscode,docker,postgres,graphql,redis,aws,html,css" alt="Technology Wall" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" alt="Technology Wall" />
+  </a>
 </div>
 
 ---
 
-## 📊 6-10. Dashboard Telemetry (GitHub Statistics)
+<!-- SECTION 7: TROPHY ROOM -->
+## 🏆 TROPHY ROOM
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rebornevo&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+</div>
+
+---
+
+<!-- SECTIONS 5-6: LIVE ANALYTICS & ACTIVITY DASHBOARD -->
+## 📊 LIVE TELEMETRY LOGS
 
 <div align="center">
 
-<!-- 10. Trophies Module -->
-<h3>🏆 Core System Trophies</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=Rebornevo&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<!-- Stats Grid Tables -->
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -125,68 +124,116 @@ I am **Rebornevo**, a Full Stack Design Engineer building highly interactive int
 
 ---
 
-## 🐍 11. GitHub Contribution Snake
+<!-- SECTION 8: SNAKE ANIMATION -->
+## 🐍 CONTRIBUTION SNAKE MATRIX
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Rebornevo/Rebornevo/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game Contribution Grid" width="100%" />
 </div>
 
+<details>
+<summary>🛠️ <i>Click to inspect the GitHub Action Snake generation workflow</i></summary>
+<br/>
+
+To compile this contribution snake dynamically, configure a workflow file `.github/workflows/generate-snake.yml` inside your profile repository:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule: # runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Rebornevo
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+</details>
+
 ---
 
-## 📂 12. Active Project Repositories (Case Studies)
+<!-- SECTION 9: FEATURED PROJECTS -->
+## 📂 FEATURED PROJECTS (LAUNCH DECKS)
 
 <div align="left">
 
-### 1. **Pulse AI &mdash; Semantic LLM Router**
-*   **Aesthetic:** Glowing vector caching database gateway.
-*   **Telemetry:** `12ms Latency` &bull; `94.2% Cache Hit Ratio` &bull; `SSL Encrypted`
-*   **Compile State:** `Active & Operational`
+### 🚀 **Pulse AI (Semantic LLM Gateway)**
+*   **Aesthetic:** Real-time token streaming & context vector caches.
+*   **System Metric:** `12ms Latency` &bull; `94% Cache Hits`
+*   **Build Pipeline:**
     ```bash
-    [========================================] 100% OK
+    [========================================] 100% ONLINE
     ```
-*   **Pipeline Source:** [Inspect Source](https://github.com/Rebornevo) &bull; [Launch Portal](https://github.com/Rebornevo)
+*   **Code Directory:** [Inspect Source](https://github.com/Rebornevo) &bull; [Launch Web App](https://github.com/Rebornevo)
 
-### 2. **Hyperion &mdash; Predictive Autoscaler Core**
-*   **Aesthetic:** Visual dependency microservice cluster routing.
-*   **Telemetry:** `45% Resource Trim` &bull; `K8s Control Plane Bound`
-*   **Compile State:** `Active & Monitoring`
+### 🚀 **Hyperion (Cloud Cluster Orchestrator)**
+*   **Aesthetic:** Dynamic load balancer autoscaling kubernetes nodes.
+*   **System Metric:** `45% AWS Service Saving` &bull; `K8s Control plane`
+*   **Build Pipeline:**
     ```bash
-    [=======================================>] 98% ONLINE
+    [=======================================>] 98% MONITORING
     ```
-*   **Pipeline Source:** [Inspect Source](https://github.com/Rebornevo) &bull; [Launch Portal](https://github.com/Rebornevo)
+*   **Code Directory:** [Inspect Source](https://github.com/Rebornevo) &bull; [Launch Web App](https://github.com/Rebornevo)
 
-### 3. **Orion 3D &mdash; WebGL Physical Engine**
-*   **Aesthetic:** GPU instanced rendering modeling tool.
-*   **Telemetry:** `60fps GPU Locked` &bull; `Vertex Shader Cache (GLSL)`
-*   **Compile State:** `Active & Pre-cached`
+### 🚀 **Orion 3D (WebGL Physical Canvas)**
+*   **Aesthetic:** GPU instanced modeling CAD layout builder.
+*   **System Metric:** `60 FPS Locked` &bull; `GLSL Vertex Shaders`
+*   **Build Pipeline:**
     ```bash
-    [====================================>...] 88% CACHED
+    [====================================>...] 88% PRE-CACHED
     ```
-*   **Pipeline Source:** [Inspect Source](https://github.com/Rebornevo) &bull; [Launch Portal](https://github.com/Rebornevo)
+*   **Code Directory:** [Inspect Source](https://github.com/Rebornevo) &bull; [Launch Web App](https://github.com/Rebornevo)
 
 </div>
 
 ---
 
-## 🎯 13. System Upgrades & Active Directives
+<!-- SECTION 10: AI & DEVELOPMENT -->
+## 🧠 COGNITIVE ROADMAP & DIRECTIVES
 
-- [ ] Refactoring index point arrays in R3F canvas nodes to prevent stack overflow leaks.
-- [ ] Optimizing Docker base layers to minimize production package size below 140MB.
-- [ ] Compiling telemetry routers capturing real-time client performance parameters.
+### 🎯 Focus & Learning Path
+*   **Optimization Matrix:** Tweaking buffer attribute calculations in R3F galaxy geometries.
+*   **AI Integrations:** Constructing serverless telemetry middlewares that process LLM context.
+*   **Performance Goals:** Compiling minimal Next.js packages to load interfaces in sub-100ms speeds.
+
+### 💡 Development Philosophy
+*   **Code Quality:** Avoid code smell, utilize type-safe contract interfaces, and write descriptive commit payloads.
+*   **UI/UX Intent:** Visual layers should feel alive, using precise motion offsets and responsive grid margins.
 
 ---
 
-## 🌌 14. Premium System Footer
+<!-- SECTION 11: FUTURISTIC FOOTER -->
+## 🌌 SYSTEM TERMINATED
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/System-Operational-00f0ff?style=flat-square" alt="System Operational" />
-<img src="https://img.shields.io/badge/Telemetry-Green-bd00ff?style=flat-square" alt="Telemetry Green" />
+<img src="https://img.shields.io/badge/System-Operational-00f0ff?style=flat-square" alt="Operational Badge" />
+<img src="https://img.shields.io/badge/Telemetry-Online-bd00ff?style=flat-square" alt="Telemetry Online Badge" />
 
 <br/><br/>
 
 <p><i>Rebornevo // Code is the ultimate architecture.</i></p>
 
-<sub>Last Core Compilation Check: 2026</sub>
+<sub>Last Telemetry Update: 2026</sub>
 
 </div>
