@@ -13,7 +13,7 @@
 <br/><br/>
 
 <!-- Visitor / Telemetry Badges -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRebornevo%2FRebornevo&count_bg=%2300F0FF&title_bg=%230A0A0A&title=NODE_ACCESS&edge_flat=true" alt="Visitor Counter" />
+<img src="https://komarev.com/normal-github-profiles/counter/?username=Rebornevo&color=blue&style=flat-square&label=NODE_VISITORS" alt="Visitor Counter" />
 <img src="https://img.shields.io/badge/SECURITY-ISOLATED_SSL-bd00ff?style=flat-square&logo=letsencrypt" alt="SSL Certificate" />
 <img src="https://img.shields.io/badge/COMPILER-REACT_COMPILER_V19-ff007a?style=flat-square&logo=react" alt="React Compiler" />
 <img src="https://img.shields.io/badge/UPTIME-99.99%25-green?style=flat-square&logo=prometheus" alt="Uptime SLA" />
@@ -24,71 +24,23 @@
 
 ---
 
-<!-- SECTION 2: DEVELOPER TERMINAL (SVG-BASED ANIMATED CONSOLE) -->
+<!-- SECTION 2: DEVELOPER TERMINAL (UNICODE BOX DRAWING) -->
 ## ⚡ SYSTEM TERMINAL PROFILE
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" width="100%" style="background:#030303; border: 1px solid rgba(0, 240, 255, 0.15); border-radius: 8px; font-family: monospace;">
-  <style>
-    @keyframes blink { 50% { opacity: 0; } }
-    .term-header { fill: #121212; }
-    .term-dot-red { fill: #ff5f56; }
-    .term-dot-yellow { fill: #ffbd2e; }
-    .term-dot-green { fill: #27c93f; }
-    .text-cyan { fill: #00f0ff; }
-    .text-purple { fill: #bd00ff; }
-    .text-white { fill: #ffffff; }
-    .text-green { fill: #27c93f; }
-    .text-gray { fill: #666666; }
-    .cursor { animation: blink 1s infinite; fill: #00f0ff; }
-    
-    .line-init { animation: fadeIn 0.4s ease forwards; opacity: 0; }
-    .line-1 { animation: fadeIn 0.4s ease 0.4s forwards; opacity: 0; }
-    .line-2 { animation: fadeIn 0.4s ease 0.8s forwards; opacity: 0; }
-    .line-3 { animation: fadeIn 0.4s ease 1.2s forwards; opacity: 0; }
-    .line-4 { animation: fadeIn 0.4s ease 1.6s forwards; opacity: 0; }
-    .line-5 { animation: fadeIn 0.4s ease 2.0s forwards; opacity: 0; }
-    .line-prompt { animation: fadeIn 0.4s ease 2.4s forwards; opacity: 0; }
-    
-    @keyframes fadeIn { to { opacity: 1; } }
-  </style>
-  <rect width="800" height="340" rx="8" fill="#030303" />
-  <rect width="800" height="30" rx="8" class="term-header" />
-  <circle cx="15" cy="15" r="6" class="term-dot-red" />
-  <circle cx="35" cy="15" r="6" class="term-dot-yellow" />
-  <circle cx="55" cy="15" r="6" class="term-dot-green" />
-  <text x="400" y="20" fill="#444" font-size="12" text-anchor="middle">REBORNEVO // OS CONSOLE</text>
-  
-  <g font-size="14" font-family="'Fira Code', Monaco, monospace" transform="translate(25, 40)">
-    <g class="line-init" transform="translate(0, 30)">
-      <text class="text-cyan">REBORNEVO_OS:~$</text>
-      <text class="text-white" dx="135">initialize --core-telemetry</text>
-    </g>
-    <g class="line-1" transform="translate(0, 60)">
-      <text class="text-gray">ONLINE STATUS </text>
-      <text class="text-green" dx="135">████████████████████ 100%</text>
-    </g>
-    <g class="line-2" transform="translate(0, 90)">
-      <text class="text-gray">SYSTEM HEALTH </text>
-      <text class="text-green" dx="135">████████████████████ 100%</text>
-    </g>
-    <g class="line-3" transform="translate(0, 120)">
-      <text class="text-gray">NETWORK STATUS</text>
-      <text class="text-cyan" dx="135">CONNECTED_VIA_SSL_TLS</text>
-    </g>
-    <g class="line-4" transform="translate(0, 150)">
-      <text class="text-gray">ACTIVE STACK  </text>
-      <text class="text-purple" dx="135">Next.js | TypeScript | Node.js | React</text>
-    </g>
-    <g class="line-5" transform="translate(0, 180)">
-      <text class="text-gray">CURRENT MISSION</text>
-      <text class="text-white" dx="135">Building Modern Web Applications</text>
-    </g>
-    <g class="line-prompt" transform="translate(0, 210)">
-      <text class="text-cyan">REBORNEVO_OS:~$</text>
-      <rect x="135" y="-12" width="8" height="15" class="cursor" />
-    </g>
-  </g>
-</svg>
+```yaml
+┌─────────────────────────────────────────────────────────────┐
+│ REBORNEVO_OS // COMMAND CENTER                              │
+├─────────────────────────────────────────────────────────────┤
+│ SYSTEM STATUS      [ ONLINE ]                               │
+│ CURRENT USER       Rebornevo                                │
+│ ACTIVE STACK       Next.js | TypeScript | Node.js | React   │
+│ DEPLOY STATUS      Deployed & Verified                      │
+│ SYSTEM HEALTH      ████████████████████ 100%                │
+│ ONLINE STATUS      ████████████████████ 100%                │
+│ NETWORK STATUS     CONNECTED                                │
+│ CURRENT MISSION    Building Modern Web Applications         │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ### 🛰️ System Characteristics
 I am **Rebornevo**, a Full Stack Web Developer building low-latency, modular web systems. I bridge the gap between complex interactive animations (GSAP, Framer Motion, Three.js) and robust database performance (Next.js, Node.js, PostgreSQL).
@@ -175,68 +127,17 @@ I am **Rebornevo**, a Full Stack Web Developer building low-latency, modular web
 
 ---
 
-<!-- SECTION 8: SNAKE ANIMATION (LOCALLY EMBEDDED HIGH-PERFORMANCE SVG) -->
+<!-- SECTION 8: SNAKE ANIMATION -->
 ## 🐍 CONTRIBUTION SNAKE MATRIX
 
 <div align="center">
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 120" width="100%" style="background:#030303; border: 1px solid rgba(0, 240, 255, 0.1); border-radius: 8px; padding: 15px;">
-  <style>
-    @keyframes snakeMove {
-      0% { transform: translate(0, 0); }
-      15% { transform: translate(65px, 0); }
-      30% { transform: translate(65px, 30px); }
-      45% { transform: translate(145px, 30px); }
-      60% { transform: translate(145px, 60px); }
-      75% { transform: translate(325px, 60px); }
-      90% { transform: translate(325px, 0); }
-      100% { transform: translate(0, 0); }
-    }
-    .snake {
-      animation: snakeMove 16s infinite alternate ease-in-out;
-      fill: #ff007a;
-      filter: drop-shadow(0 0 6px #ff007a);
-    }
-    @keyframes pulseGlow {
-      0%, 100% { opacity: 0.3; }
-      50% { opacity: 1; }
-    }
-    .glow-dot {
-      animation: pulseGlow 3s infinite ease-in-out;
-    }
-  </style>
-  
-  <!-- Row 1 -->
-  <rect x="0" y="0" width="10" height="10" rx="2" fill="#1f1f1f" />
-  <rect x="15" y="0" width="10" height="10" rx="2" fill="#00f0ff" class="glow-dot" />
-  <rect x="30" y="0" width="10" height="10" rx="2" fill="#1f1f1f" />
-  <rect x="45" y="0" width="10" height="10" rx="2" fill="#1f1f1f" />
-  <rect x="60" y="0" width="10" height="10" rx="2" fill="#bd00ff" />
-  <rect x="75" y="0" width="10" height="10" rx="2" fill="#1f1f1f" />
-  
-  <!-- Row 2 -->
-  <rect x="0" y="15" width="10" height="10" rx="2" fill="#1f1f1f" />
-  <rect x="15" y="15" width="10" height="10" rx="2" fill="#bd00ff" />
-  <rect x="30" y="15" width="10" height="10" rx="2" fill="#1f1f1f" />
-  <rect x="45" y="15" width="10" height="10" rx="2" fill="#ff007a" class="glow-dot" />
-  <rect x="60" y="15" width="10" height="10" rx="2" fill="#1f1f1f" />
-  <rect x="75" y="15" width="10" height="10" rx="2" fill="#00f0ff" />
-  
-  <!-- Extra Grid Panels (Cyber Aesthetic grid representation) -->
-  <line x1="120" y1="5" x2="800" y2="5" stroke="rgba(255,255,255,0.05)" stroke-dasharray="2,5" />
-  <line x1="120" y1="20" x2="800" y2="20" stroke="rgba(255,255,255,0.05)" stroke-dasharray="2,5" />
-  <line x1="120" y1="35" x2="800" y2="35" stroke="rgba(255,255,255,0.05)" stroke-dasharray="2,5" />
-  
-  <!-- Crawler Snake Entity -->
-  <rect class="snake" x="5" y="5" width="12" height="12" rx="4" />
-</svg>
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/readme.svg" alt="GitHub Snake Game Contribution Grid" width="100%" />
 </div>
 
 <details>
-<summary>🛠️ Click to inspect the optional GitHub Action Snake generation workflow</summary>
+<summary>🛠️ Click to inspect the GitHub Action Snake generation workflow</summary>
 
-To compile a live-updating contribution snake dynamically, configure a workflow file `.github/workflows/generate-snake.yml` inside your profile repository:
+To compile your own live-updating contribution snake dynamically, configure a workflow file `.github/workflows/generate-snake.yml` inside your profile repository:
 
 ```yaml
 name: Generate Snake Animation
