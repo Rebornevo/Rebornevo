@@ -2,13 +2,13 @@
 
 <!-- SECTION 1: ANIMATED HERO -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=CORE_SYSTEM_INIT:+REBORNEVO;FULL+STACK+DEVELOPER;MODERN+WEB+ENGINEER;UI/UX+FOCUSED+BUILDER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=CORE_SYSTEM_INIT:+REBORNEVO;FULL+STACK+DEVELOPER;MODERN+WEB+ENGINEER;UI%2FUX+FOCUSED+BUILDER" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Animated Cyberpunk GIF Banner -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A4Mzg2bncydnh2cm1hdDk0ZGF0amR3OTltNmhrNXBpaGpxY3ptYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaU22o1EF8s/giphy.gif" width="100%" alt="Developer Command Center GIF" style="border-radius: 12px; border: 1px solid rgba(0, 240, 255, 0.25); box-shadow: 0 0 25px rgba(0, 240, 255, 0.15);" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A4Mzg2bncydnh2cm1hdDk0ZGF0amR3OTltNmhrNXBpaGpxY3ptYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaU22o1EF8s/giphy.gif" width="100%" alt="Developer Command Center GIF" />
 
 <br/><br/>
 
@@ -27,16 +27,13 @@
 <!-- SECTION 2: DEVELOPER TERMINAL -->
 ## ⚡ SYSTEM TERMINAL PROFILE
 
-```bash
-+---------------------------------------------------------------+
-| SYSTEM STATUS: ONLINE                                         |
-|                                                               |
-| CONTRIBUTOR: Rebornevo                                        |
-| ROLE: Full Stack Developer / Systems Designer                 |
-| TARGET: High-performance interfaces & modular API structures  |
-| LOCATION: Distributed Node Gateway                            |
-| STATUS: AVAILABLE_FOR_PROJECTS                                |
-+---------------------------------------------------------------+
+```yaml
+System Status: "OPERATIONAL"
+Developer: "Rebornevo"
+Core Stack: "Next.js | React v19 | TypeScript | Node.js | PostgreSQL"
+Current Mode: "Building High-Performance Web Applications & Interfaces"
+Connection: "Secure (SSL/TLS Active)"
+Availability: "OPEN_FOR_COLLABORATIONS"
 ```
 
 ### 🛰️ System Characteristics
@@ -97,7 +94,7 @@ I am **Rebornevo**, a Full Stack Web Developer building low-latency, modular web
 
 <div align="center">
 
-<table border="0">
+<table>
   <tr>
     <td width="50%" align="center">
       <strong>💻 GitHub Statistics</strong><br/><br/>
@@ -132,8 +129,7 @@ I am **Rebornevo**, a Full Stack Web Developer building low-latency, modular web
 </div>
 
 <details>
-<summary>🛠️ <i>Click to inspect the GitHub Action Snake generation workflow</i></summary>
-<br/>
+<summary>🛠️ Click to inspect the GitHub Action Snake generation workflow</summary>
 
 To compile this contribution snake dynamically, configure a workflow file `.github/workflows/generate-snake.yml` inside your profile repository:
 
@@ -168,6 +164,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+
 </details>
 
 ---
