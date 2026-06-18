@@ -13,7 +13,6 @@
 <br/><br/>
 
 <!-- Visitor / Telemetry Badges -->
-<img src="https://komarev.com/normal-github-profiles/counter/?username=Rebornevo&color=blue&style=flat-square&label=NODE_VISITORS" alt="Visitor Counter" />
 <img src="https://img.shields.io/badge/SECURITY-ISOLATED_SSL-bd00ff?style=flat-square&logo=letsencrypt" alt="SSL Certificate" />
 <img src="https://img.shields.io/badge/COMPILER-REACT_COMPILER_V19-ff007a?style=flat-square&logo=react" alt="React Compiler" />
 <img src="https://img.shields.io/badge/UPTIME-99.99%25-green?style=flat-square&logo=prometheus" alt="Uptime SLA" />
